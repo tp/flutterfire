@@ -1,3 +1,7 @@
+## 3.0.7
+
+* Support the v2 Android embedding.
+
 ## 3.0.6
 
 * Update documentation to reflect new repository location.
